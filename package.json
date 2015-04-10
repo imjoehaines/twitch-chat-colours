@@ -1,0 +1,22 @@
+{
+  "name": "twitch-chat-colours",
+  "version": "1.0.0",
+  "description": "Change chat colours in twitch",
+  "main": "inject.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.2.1"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/imjoehaines/twitch-chat-colours.git"
+  },
+  "author": "Joe Haines",
+  "bugs": {
+    "url": "https://github.com/imjoehaines/twitch-chat-colours/issues"
+  },
+  "homepage": "https://github.com/imjoehaines/twitch-chat-colours"
+}
