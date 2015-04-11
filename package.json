@@ -5,7 +5,13 @@
   "main": "inject.js",
   "dependencies": {},
   "devDependencies": {
-    "jasmine": "^2.2.1"
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.8.2",
+    "grunt-contrib-jshint": "^0.11.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-gh-pages": "^0.10.0",
+    "grunt-notify": "^0.4.1",
+    "grunt-template-jasmine-istanbul": "^0.3.3"
   },
   "scripts": {
     "test": "jasmine"
